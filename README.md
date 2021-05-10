@@ -6,7 +6,7 @@ vue3 component with adjustable (zoom, offset top and left) passepartout image.
 
 ## Screenshots
 
-Rendered component ![rendered]]('')
+Rendered component ![rendered]]('https://raw.githubusercontent.com/safinazbg/avatar-card/master/display.png')
 
 
-Adjustment panel visible ![editing]]('')
+Adjustment panel visible ![editing]]('https://raw.githubusercontent.com/safinazbg/avatar-card/master/edit.png')
